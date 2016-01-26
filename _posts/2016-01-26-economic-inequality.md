@@ -20,6 +20,8 @@ So, how do we go about solving economic inequality once and for all?
 
 My answer is simple: we don't.
 
+Instead, we must focus on the more systemic issues at hand. Issues that are core to the problem of economic inequality. Issues that create economic inequality as a result of their effects. Economic inequality isn't cancer; it's the resultant premature death cancer brings to its host. Focusing on curing the problem of premature death without focusing on the core of the ailment--that is, without first solving cancer--brings about irreconcilable deadlock.
+
 Fostering America's spirit of innovation isn't something we ought to ever attempt to put a ceiling on. Simply taxing from the top--instead of building from the bottom--will create negligible societal benefit at best, and will snuff the flame of innovation at worst.
 
 Surely I'm not saying we ought to stand idly by and watch as America deteriorates in to the "haves" and "have nots", am I? Certainly not. But what I am saying is that by treating economic inequality as the ailment instead of a product of certain environments run amuck is to confuse a collapsed home as the problem, and ignoring the cracked foundation underneath the rubble.
