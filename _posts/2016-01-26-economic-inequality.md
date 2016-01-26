@@ -26,13 +26,13 @@ Fostering America's spirit of innovation isn't something we ought to ever attemp
 
 Surely I'm not saying we ought to stand idly by and watch as America deteriorates in to the "haves" and "have nots", am I? Certainly not. But what I am saying is that by treating economic inequality as the ailment instead of a product of certain environments run amuck is to confuse a collapsed home as the problem, while ignoring the cracked foundation underneath the rubble.
 
-So instead, let's address the cracking foundation. The most glaring underlying issue America faces in the conversation around economic inequality is that of poverty. In his essay entitled, "Economic Inequality," notable tech investor and Harvard PhD Paul Graham states the following:
+So instead, let's address the cracking foundation. The most glaring underlying issue America faces in the conversation around economic inequality is poverty. In his essay entitled, "Economic Inequality," notable tech investor and Harvard PhD Paul Graham states the following:
 
 >Indeed, a good number are merely being sloppy by speaking of decreasing economic inequality when what they mean is decreasing poverty. But this is a situation where it would be good to be precise about what we want. Poverty and economic inequality are not identical. When the city is turning off your water because you can't pay the bill, it doesn't make any difference what Larry Page's net worth is compared to yours. He might only be a few times richer than you, and it would still be just as much of a problem that your water was getting turned off.[^2]
 
 How, then, do we solve poverty? The most obvious answer is with better education for everyone; something I've been a vocal proponent of for quite some time. Giving every deserving citizen a top-tier education will surely put us on the right track as a country in combating--and alleviating--poverty. But will universal education bring us a more uniform measure of economic wellbeing? Certainly not! By granting all children in America the same, top-notch education, economic inequality will grow, not shrink. How is this possible? Think about it rationally for a minute: if 75 million school-aged children were to receive the same level of education as Max Levchin or Peter Thiel, you can bet any number of macro-stats that more than a few of them would become the next mavens of their economic generation. If even a handful of these students found happiness working as mid-level corporate directors for their careers instead of advancing global infrastructure as successful business tycoons, you've just successfully widened the gap of economic inequality, even though everyone found positive benefit.[^3]
 
-It should be America's job not to tell you how high to build your house; it should be to make sure your foundation is as strong as it could ever be.
+It should not be America's job to tell you how high to build your house; it should be to make sure your foundation is as strong as it could ever be.
 
 ##### Resources
 
