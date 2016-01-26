@@ -24,7 +24,7 @@ Instead, we must focus on the more systemic issues at hand. Issues that are core
 
 Fostering America's spirit of innovation isn't something we ought to ever attempt to put a ceiling on. Simply taxing from the top--instead of building from the bottom--will create negligible societal benefit at best, and will snuff the flame of innovation at worst.
 
-Surely I'm not saying we ought to stand idly by and watch as America deteriorates in to the "haves" and "have nots", am I? Certainly not. But what I am saying is that by treating economic inequality as the ailment instead of a product of certain environments run amuck is to confuse a collapsed home as the problem, and ignoring the cracked foundation underneath the rubble.
+Surely I'm not saying we ought to stand idly by and watch as America deteriorates in to the "haves" and "have nots", am I? Certainly not. But what I am saying is that by treating economic inequality as the ailment instead of a product of certain environments run amuck is to confuse a collapsed home as the problem, while ignoring the cracked foundation underneath the rubble.
 
 So instead, let's address the cracking foundation. The most glaring underlying issue America faces in the conversation around economic inequality is that of poverty. In his essay entitled, "Economic Inequality," notable tech investor and Harvard PhD Paul Graham states the following:
 
