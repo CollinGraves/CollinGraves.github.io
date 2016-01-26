@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Essays about the state of the world.
+## Essays about things that matter.
 
 [Economic Inequality]({% post_url 2016-01-26-economic-inequality %})
 <hr>

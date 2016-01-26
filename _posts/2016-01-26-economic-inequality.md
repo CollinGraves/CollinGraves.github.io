@@ -1,4 +1,7 @@
-permalink: /economic-inequality
+---
+layout: page
+---
+
 ### On Economic Inequality In America
 
 My biggest concern--indeed, my biggest point of concentration outside of work--is learning the science, history, and nuances of our national and global economies and how we go about fixing the phenomenon of economic inequality. In most political conversations it seems we already have the solution to the ever-widening chasm of inequality figured out, due in no small part to the ever-resonant chanting of our social media brethren. There appears to be a canonical system when it comes to discussing the topic of economic inequality; in plain terms, it seems every piece of literature we stumble across has one or more of the following three ingredients as its base: political biases, high-level data (focusing solely on macro-level statistics), or poor misunderstanding.
