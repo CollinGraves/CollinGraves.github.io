@@ -7,4 +7,5 @@ layout: default
 [Economic Inequality]({% post_url 2016-01-26-economic-inequality %})
 <hr>
 
-[Collin Graves](https://github.com/CollinGraves)
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a href="https://gum.co/learntolaunch">Buy my book.</a>
